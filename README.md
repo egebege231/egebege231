@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egebege231
-- 👀 I’m interested in Minecraft Plugins
-- 🌱 I’m currently learning Java/Kotlin
+- 👀 I’m interested in Minecraft Plugins / Discord.js
+- 🌱 I’m currently learning Java
 - 📫 My discord: egebege231
-- 💙 My project: https://dc.magicstudios.pl / https://discord.gg/CHSFBRmp79
+- 💙 My project: https://dc.voidmc.eu // https://discord.gg/void-mc
   
