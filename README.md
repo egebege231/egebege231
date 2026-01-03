@@ -2,5 +2,5 @@
 - 👀 I’m interested in Minecraft Plugins / Discord.js
 - 🌱 I’m currently learning Java
 - 📫 My discord: egebege231
-- 💙 My project: https://dc.voidmc.eu // https://discord.gg/void-mc
+- 💙 My project: https://dc.soulpvp.pl // https://discord.gg/qaE87dNQYJ
   
